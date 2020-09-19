@@ -1,1 +1,1 @@
-# word_cout
+# word_count
